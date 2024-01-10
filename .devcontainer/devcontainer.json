@@ -18,7 +18,8 @@
 				"ritwickdey.LiveServer",
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
-				"wayou.vscode-todo-highlight"
+				"wayou.vscode-todo-highlight",
+				"SeyyedKhandon.tpack"
 			],
 			"settings": {
 				"workbench.iconTheme": "vscode-icons",
