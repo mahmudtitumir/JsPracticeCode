@@ -14,7 +14,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"formulahendry.code-runner",
 				"ritwickdey.LiveServer",
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
@@ -26,6 +25,7 @@
 				"editor.tabSize": 2,
 				"editor.formatOnSave": true,
 				"editor.wordWrap": "on",
+				"editor.guides.bracketPairs": "active",
 				"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 				"[json]": {
 					"editor.defaultFormatter": "esbenp.prettier-vscode"
