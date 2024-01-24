@@ -8,4 +8,4 @@ function hello() {
   }
 }
 
-hello();
+// hello();
