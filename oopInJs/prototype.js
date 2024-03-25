@@ -1,4 +1,8 @@
-should 
+// Every object (except the root object) has a prototype (parent). 
+// To get the prototype of an object:
+Object.getPrototypeOf(obj); 
+
+// In Chrome, you can inspect "__proto__" property. But you should 
 // not use that in the code. 
 
 // To get the attributes of a property:
