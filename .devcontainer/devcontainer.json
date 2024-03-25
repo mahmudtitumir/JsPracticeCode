@@ -18,7 +18,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
-				"SeyyedKhandon.tpack"
+				"SeyyedKhandon.tpack",
+				"eamodio.gitlens"
 			],
 			"settings": {
 				"workbench.iconTheme": "vscode-icons",
